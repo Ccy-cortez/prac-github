@@ -1,2 +1,2 @@
 # prac-github
-prac github
+prac github practica
